@@ -6,7 +6,7 @@
 
 ---
 
-I’m currently working on a **React Native** workout app and on **Unity** 2d game.
+I'm currently working on a **React Native** workout app and a 2D game in **Unity**.
 
 Interested about full-stack development, mobile apps, and clean UI.
 
