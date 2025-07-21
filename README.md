@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=T0miV&color=brightgreen&style=for-the-badge" alt="profile views">
+ ![](https://komarev.com/ghpvc/?username=your-T0miV&color=brightgreen&style=for-the-badge)
 </p>
 
 <h1 align="center">Hi 👋, I'm Tomi</h1>
