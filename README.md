@@ -51,5 +51,5 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0miV&layout=compact&theme=dark" alt="Top Languages">
   <br>
   <br>
-<img src="https://github-readme-stats.vercel.app/api?username=T0miV&show_icons=true&theme=dark&rank_icon=github" alt="Tomi's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=T0miV&show_icons=true&theme=dark&rank_icon=github&hide=stars" alt="Tomi's GitHub stats">
 </p>
