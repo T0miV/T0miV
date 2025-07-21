@@ -1,7 +1,7 @@
-<p align="center">
- ![](https://komarev.com/ghpvc/?username=your-T0miV&color=brightgreen&style=for-the-badge)
-</p>
-
+![](https://komarev.com/ghpvc/?username=your-T0miV&color=brightgreen&style=for-the-badge)
+ <br>
+ <br>
+ 
 <h1 align="center">Hi 👋, I'm Tomi</h1>
 <h3 align="center">Freshly graduated software engineer from Finland 🇫🇮</h3>
 
@@ -49,6 +49,7 @@
 
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0miV&layout=compact&theme=dark" alt="Top Languages">
+  <br>
   <br>
 <img src="https://github-readme-stats.vercel.app/api?username=T0miV&show_icons=true&theme=dark&rank_icon=github" alt="Tomi's GitHub stats">
 </p>
