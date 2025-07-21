@@ -3,9 +3,8 @@
 <h1 align="center">Hi 👋, I'm Tomi</h1>
 <h3 align="center">Freshly graduated software engineer from Finland</h3>
 
-- 🔭 I’m currently working on **React native workout app**
+🔭 I’m currently working on **React native workout app**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
