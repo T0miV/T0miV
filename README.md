@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=your-T0miV&color=brightgreen&style=for-the-badge)
  <br>
- <br>
  
 <h1 align="center">Hi 👋, I'm Tomi</h1>
 <h3 align="center">Freshly graduated software engineer from Finland 🇫🇮</h3>
