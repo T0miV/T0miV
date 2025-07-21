@@ -7,13 +7,13 @@
 
 ---
 
-🔭 I’m currently working on a **React Native** workout app.
+I’m currently working on a **React Native** workout app.
 
-💻 Passionate about full-stack development, mobile apps, and clean UI.
+Interested about full-stack development, mobile apps, and clean UI.
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
@@ -45,7 +45,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0miV&layout=compact&theme=dark" alt="Top Languages">
